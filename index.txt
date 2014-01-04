@@ -1,0 +1,20 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/05/01 11:11:43
+.. title: Henry Thille
+.. slug: index
+
+
+I am an associate professor in economics at the University of
+Guelph. My `research </publications/index.html>`_
+examines the market structure of commodity
+markets as well as topics in industrial organization and natural
+resource economics. My teaching also revolves around industrial
+organization and natural resource economics.  
+
+| Contact:
+| Department of Economics and Finance
+| University of Guelph
+| Guelph, Ontario, Canada
+| N1G 2W1

@@ -1,0 +1,89 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/05/01 11:15:41
+.. title: Publications
+.. slug: index
+
+
+Publications 
+------------ 
+
+Genc, Talat and Henry Thille, `Investment in Electricity Markets with
+Asymmetric Technologies <http://www.sciencedirect.com/science/article/pii/S0140988310001258>`_, *Energy Economics.*
+33. 2011. pp. 378--87. 
+
+Thille, Henry. Measuring the Performance of Canadian Markets. Chapter
+4 in Zhiqi Chen and Marc Duhamel. Eds.  *Industrial Organization in
+Canada: Empirical Evidence and Policy Challenges.* McGill-Queen's
+University Press. 2010. pp. 108-39.
+  
+Thommes, E., Thille, H, Cojocaru, M.-G., Nelson, D., A time-dependent
+ABM model of an eco-product market with social interactions and
+dynamic pricing schemes, *IEEE proceedings of
+TIC-STH*. 2009. pp. 218--21.
+
+Sebastien Mitraille and Henry Thille. `Monopoly Behaviour with
+Speculative Storage
+<http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V85-4VPD6J1-2&amp;_user=1067211&amp;_coverDate=07%2F31%2F2009&amp;_rdoc=5&amp;_fmt=high&amp;_orig=browse&amp;_srch=doc-info%28%23toc%235861%232009%23999669992%231089054%23FLA%23display%23Volume%29&amp;_cdi=5861&amp;_sort=d&amp;_docanchor=&amp;_ct=7&amp;_acct=C000051237&amp;_version=1&amp;_urlVersion=0&amp;_userid=1067211&amp;md5=d9472594b24428dfde438492c2e1dcfd>`_,
+*Journal of Economic Dynamics and Control*, 33. 2009. pp. 1451-1468.
+
+Cojocaru, M.-G., Hawkins, S., Thille, H., Thommes, E., Double layer
+and hybrid dynamics of equilibrium problems - applications to markets
+of environmental products in: *Nonlinear Analysis and Variational
+Problems*, Springer-Verlag (P. Pardalos, T. M. Rassias, A. Khan Eds),
+Ch. 16, 2009. pp. 213--34.
+
+Margaret E. Slade and Henry Thille. `Whither Hotelling: Tests of the
+Theory of Exhaustible Resources
+<http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.resource.050708.144223>`_,
+*Annual Review of Resource Economics*, 1(1), 2009. pp. 239--260.
+
+Emery, J.C., Kris Inwood, and Henry Thille. `Hecksher-Ohlin in Canada:
+New Estimates of Regional Wages and Land Prices
+<http://www3.interscience.wiley.com/journal/118480608/abstract>`_.
+*Australian Economic History Review*, 41(1). March 2007. pp. 22--48
+
+Thille, Henry. Inventories, Market Structure, and Price
+Volatility. *Journal of Economic Dynamics and Control*, 30(7). July
+2006. pp. 1081--1104.
+
+Margaret E. Slade and Henry Thille. Commodity Spot Prices: An
+Exploratory Assessment of Market-Structure and Forward-Trading
+Effects. *Economica*, 73. February, 2006. pp. 229--56.
+
+John Livernois, Henry Thille and Xianqian Zhang. A Test of the
+Hotelling Rule Using Old-Growth Timber Data.  *Canadian Journal of
+Economics*, 39(1). February, 2006. pp. 163--186.
+
+Thille, Henry. Forward Trading and Storage in a Cournot Duopoly.
+*Journal of Economic Dynamics and Control*, 27(4). February,
+2003. pp. 651--665.
+
+Michael Benarroch and Henry Thille Transboundary Pollution and the
+Gains from Trade. *Journal of International Economics.*
+55(1). October, 2001.  pp. 139--159.
+
+Hugh Grant and Henry Thille. Tariffs, Strategy and Structure:
+Competition and Collusion in the Ontario Petroleum Industry,
+1870--1880. *Journal of Economic History*, 61(2). June,
+2001. pp. 390--413.
+
+Margaret E. Slade and Henry Thille. Forward Trading and Adjustment
+Costs in Cournot Markets. *Cahiers d'Economie Politique.*
+No. 37. 2000. pp.  177--195.
+
+Margaret E. Slade and Henry Thille. Hotelling Confronts CAPM: A test
+of the theory of exhaustible resources. *Canadian Journal of
+Economics,* 30(3). August, 1997. pp. 685--708.
+
+Hugh Grant and Henry Thille. *Paper Boom*, Asset Bubble or Staple
+Bust? Book Review. *Studies in Political Economy.* 62. Summer,
+2000. pp. 151--59.
+
+W.T Stanbury, Henry Thille, and Ilan Vertinsky. The Use of
+Cost-Benefit Analysis to Allocate Forest Lands Among Alternative
+Uses. In *British Columbia Forest Resources Commission: Background
+Papers,* Volume 2.  1991.
+
+

@@ -1,0 +1,20 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/05/01 12:05:16
+.. title: Current Research
+.. slug: index
+
+
+Work in Progress 
+---------------- 
+
+- `Speculative storage in imperfectly competitive markets. <../oligopolyspeculation.pdf>`_
+
+- `Dynamic competition in electricity markets with mixed hydroelectric
+  and thermal generation. <../hydro_infhorizon.pdf>`_
+
+- `Dynamic consumer preferences and the adoption of new
+  products. <../DynamicPrefs.pdf>`_
+
+
